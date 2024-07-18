@@ -37,7 +37,9 @@
 }
 
 @media screen and (max-width: 600px ) {
-    .coluna
+    .coluna{
+        background-color: blueviolet;
+    }
     
 }
 
